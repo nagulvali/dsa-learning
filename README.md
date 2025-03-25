@@ -1,2 +1,1 @@
-# dsa-learning
-dsa
+# DSA
