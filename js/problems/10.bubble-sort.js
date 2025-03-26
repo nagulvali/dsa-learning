@@ -27,5 +27,6 @@ console.log(bubbleSort([3, 1, 4, 5, 2]));
 console.log(bubbleSort([2, 2, 2, 2, 2]));
 console.log(bubbleSort([-1, 3, -2, 5, 0]));
 
-// as this is nested loop
+// Time Complexity Analysis:
+// as this is nested loop, the time complexity is quadratic
 // Big-O: O(n^2)
